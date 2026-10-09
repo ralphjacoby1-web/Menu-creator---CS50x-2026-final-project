@@ -114,4 +114,4 @@ For this project I used:
 The AI-tool that helped me throughout this final project was Claude.
 It helped me with:
 
-Design decitions on frontend and backend and some JS functionalities.
+Design decisions on frontend and backend and some JS functionalities.
